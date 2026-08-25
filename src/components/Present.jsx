@@ -2,9 +2,9 @@ import React from 'react'
 import SectionWrapper from './SectionWrapper'
 import "../assets/css/present.css";
 
-import bunga from "../assets/bunga.png";
-import boneka from "../assets/boneka.png";
-import gambar from "../assets/gambar.png";
+import bunga from "../assets/Bunga.png";
+import boneka from "../assets/Boneka.png";
+import gambar from "../assets/Gambar.png";
 
 function Present() {
   return (
@@ -35,7 +35,7 @@ function Present() {
           </div>
         </label>
       </div>
-      
+
     </SectionWrapper>
   )
 }
